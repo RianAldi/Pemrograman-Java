@@ -9,4 +9,4 @@ public class Pertemuan2 {
         x = 20;
         System.out.println("Nilai x  baru adalah =" + x);
     }
-}
+ }
